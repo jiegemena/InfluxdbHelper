@@ -6,6 +6,9 @@
     <Version>1.0.1</Version>
     <Authors>top.jieguone</Authors>
     <Description>influxdb httphelper</Description>
+    <PackageProjectUrl>https://github.com/jiegemena/InfluxdbHelper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jiegemena/InfluxdbHelper</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
